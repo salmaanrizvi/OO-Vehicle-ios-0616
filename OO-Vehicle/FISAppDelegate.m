@@ -7,6 +7,10 @@
 //
 
 #import "FISAppDelegate.h"
+#import "FISVehicle.h"
+#import "FISCar.h"
+#import "FISPlane.h"
+#import "FISRaceCar.h"
 
 @implementation FISAppDelegate
 
@@ -14,7 +18,6 @@
 {
 
     // Override point for customization after application launch.
-
     return YES;
 }
 
